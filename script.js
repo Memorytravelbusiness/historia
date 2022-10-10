@@ -1,4 +1,4 @@
 window.onload = function () {
   $('#onload').fadeOut();
-  $('body').removeClass('.dark')
+  $('body').removeClass('container py-4')
 }
