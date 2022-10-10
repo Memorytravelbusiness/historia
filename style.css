@@ -8,7 +8,11 @@ body {
   font-weight: initial;
 }
 
-.containeeer{   
+.dark {
+  background: #110f16;
+}
+
+.containeer{   
   left: 0;
   position:fixed;
   top: 0;
@@ -68,10 +72,6 @@ body {
         translateY(-50px) scaleX(1);
     }
 }
-.dark {
-  background: #110f16;
-}
-
 .light {
   background: #f3f5f7;
 }
